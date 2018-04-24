@@ -11,4 +11,4 @@ If you have any question, please contact: menghanxyz@gmail.com (Menghan Xia)
 
 Here is an example for demonstration below (image topological graph and alignment result): 
 
-<img src="docs/demo.png" width="900px"/>
+<img src="docs/demo.png" width="800px"/>
